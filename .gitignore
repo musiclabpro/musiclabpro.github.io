@@ -1,0 +1,4 @@
+.condaenv
+.venv
+build/
+
