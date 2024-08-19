@@ -32,7 +32,7 @@ There are so so many computer music applications, why another? What makes musicl
 
 - All music software are designed for western music.
 
-- 
+-
 
 Rationale
 +++++++++
@@ -45,7 +45,15 @@ Rationale
 
 - Artists often get stuck in their own style and find it hard to break out of the rut.
 
-- 
+-
+
+Let us know your thoughts
+===========================
+
+.. raw:: html
+
+   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCcpocAonekqjjDWguSXTE_UhYkjrJydSjgOOQ5AoxMxeFWw/viewform?embedded=true" width="640" height="2292" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 Indices and tables
 ==================
 
