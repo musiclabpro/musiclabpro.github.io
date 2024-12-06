@@ -13,26 +13,35 @@ Welcome to musiclabpro.com!
 What is musiclab?
 +++++++++++++++++
 
-`MusicLab` is a software for **anybody** who wants to make music for personal or commercial purposes.
+A platform to make music production, composition, and sound engineering simple for common folk and super charged for professionals.
 
-`MusicLab` is a platform for creators to compose and create music, collaborate with others.
+kbd-synth
++++++++++
 
-`MusicLab` is an expert co-composer, a band-in-a-box, a music teacher.
+``kbd-synth`` Community edition. This is our first application, and we are working on it.
 
-`MusicLab` is a multi-timbral, polyphonic, flexible, musical instrument with many levels of complexity.
+MacOS users will be able to use it soon. And it will be **free for everybody**!!
 
-`MusicLab` combines higher mathematics, advanced algorithms, and musical concepts. It helps explore undiscovered music.
+Watch this page for updates. Or send us an email to `contact` [at] `musiclabpro` [dot] `com`.
 
-`MusicLab` is under active and rapid development.
+If you are keep to get early previews or participate in testing, please email us at the address above.
 
-Why musiclab?
-+++++++++++++
+Features
+--------
 
-There are so so many computer music applications, why another? What makes musiclab special?
+- Audio synthesis, MIDI controller
 
-- All music software are designed for western music.
+- Multi-timbral polyphonic musical instrument
 
--
+- Jam machine, musical accompaniment, live instrument, karaoke
+
+- Hundreds of high quality musical instruments
+
+- Realtime interaction, live performance and recording. Very low latency.
+
+- Simple elegant GUI.
+
+- AI enabled, and more.
 
 Rationale
 +++++++++
@@ -41,11 +50,13 @@ Rationale
 
   - You need approximately 10-20 years of singing/instrument practice
 
-  - Good quality equipments are very expensive
+  - Good quality equipments are very expensive. We want robust but cheaper alternatives.
 
 - Artists often get stuck in their own style and find it hard to break out of the rut.
 
--
+- We travel a lot. It's hard to carry around equipment, but we often carry around a laptop. Inspiration can strike anytime.
+
+- We want to take a 10 minute break and play some musical tunes, learn about scales, develop ear for intervals.
 
 Let us know your thoughts
 ===========================
