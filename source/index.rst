@@ -24,7 +24,7 @@ MacOS users will be able to use it soon. And it will be **free for everybody**!!
 
 Watch this page for updates. Or send us an email to `contact` [at] `musiclabpro` [dot] `com`.
 
-If you are keep to get early previews or participate in testing, please email us at the address above.
+If you are keen to get early previews or participate in testing, please email us at the address above.
 
 Features
 --------
