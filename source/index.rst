@@ -63,7 +63,7 @@ Let us know your thoughts
 
 .. raw:: html
 
-   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCcpocAonekqjjDWguSXTE_UhYkjrJydSjgOOQ5AoxMxeFWw/viewform?embedded=true" width="640" height="2292" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+   <iframe src="https://forms.gle/NPgteu71524qebg38" width="640" height="2292" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Indices and tables
 ==================
