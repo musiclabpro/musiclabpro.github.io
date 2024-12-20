@@ -1,2 +1,2 @@
-# musiclabpro.gitbut.io
+# musiclabpro.github.io
 Temporary page for musiclabpro.com
