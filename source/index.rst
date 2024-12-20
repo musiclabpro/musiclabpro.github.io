@@ -10,13 +10,17 @@ Welcome to musiclabpro.com!
    :maxdepth: 2
    :caption: Contents:
 
+.. raw:: html
+
+   <iframe src="https://forms.gle/VBqtLbMgMrM9jd3KA" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 What is musiclab?
-+++++++++++++++++
+=================
 
 A platform to make music production, composition, and sound engineering simple for common folk and super charged for professionals.
 
 kbd-synth
-+++++++++
+=========
 
 ``kbd-synth`` Community edition. This is our first application, and we are working on it.
 
@@ -27,7 +31,7 @@ Watch this page for updates. Or send us an email to `contact` [at] `musiclabpro`
 If you are keen to get early previews or participate in testing, please email us at the address above.
 
 Features
---------
+========
 
 - Audio synthesis, MIDI controller
 
@@ -44,7 +48,7 @@ Features
 - AI enabled, and more.
 
 Rationale
-+++++++++
+=========
 
 - Becoming a professional musician/producer has a huge barrier to entry
 
@@ -57,17 +61,3 @@ Rationale
 - We travel a lot. It's hard to carry around equipment, but we often carry around a laptop. Inspiration can strike anytime.
 
 - We want to take a 10 minute break and play some musical tunes, learn about scales, develop ear for intervals.
-
-Let us know your thoughts
-===========================
-
-.. raw:: html
-
-   <iframe src="https://forms.gle/VBqtLbMgMrM9jd3KA" width="640" height="2292" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
