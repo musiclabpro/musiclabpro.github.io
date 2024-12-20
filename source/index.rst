@@ -63,7 +63,29 @@ Let us know your thoughts
 
 .. raw:: html
 
-   <iframe src="https://forms.gle/NPgteu71524qebg38" width="640" height="2292" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+   <script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.1.0/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyDnxkPXqJD8LDmN54__pniLj-COq0kyW_Y",
+    authDomain: "musiclab-pro-314.firebaseapp.com",
+    projectId: "musiclab-pro-314",
+    storageBucket: "musiclab-pro-314.firebasestorage.app",
+    messagingSenderId: "1001320686987",
+    appId: "1:1001320686987:web:730a11875d0cde68e7fb8e",
+    measurementId: "G-11Q5E7Z2NB"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+   </script>
 
 Indices and tables
 ==================
