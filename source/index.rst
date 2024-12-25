@@ -16,10 +16,10 @@ What is musiclab?
 A platform to make music production, composition, and sound engineering simple for common folk and
 super charged for professionals. It's our *secret sauce*.
 
-Revathi Studio
+Revati Studio
 ==============
 
-Revathi Studio Community edition. This is our first application, and we are working on it.
+Revati Studio Community edition. This is our first application, and we are working on it.
 
 MacOS users will be able to use it soon. And it will be **free for everybody**!! PC users, hang on, we will get you there!
 
