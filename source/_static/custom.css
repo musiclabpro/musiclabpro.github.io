@@ -1,0 +1,25 @@
+.responsive-form-container {
+    position: relative;
+    width: 100%;
+    max-width: 640px;
+    margin: 0 auto;
+    padding-bottom: 93.75%; /* This creates a 16:15 aspect ratio (600/640 = 0.9375) */
+    height: 0;
+    overflow: hidden;
+  }
+
+  .responsive-form-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+
+  /* Add media queries for better mobile experience */
+  @media screen and (max-width: 768px) {
+    .responsive-form-container {
+      padding-bottom: 150%; /* Taller aspect ratio for mobile */
+    }
+  }

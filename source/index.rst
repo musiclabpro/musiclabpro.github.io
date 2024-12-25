@@ -10,54 +10,69 @@ Welcome to musiclabpro.com!
    :maxdepth: 2
    :caption: Contents:
 
-.. raw:: html
-
-   <iframe src="https://forms.gle/VBqtLbMgMrM9jd3KA" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 What is musiclab?
 =================
 
-A platform to make music production, composition, and sound engineering simple for common folk and super charged for professionals.
+A platform to make music production, composition, and sound engineering simple for common folk and
+super charged for professionals. It's our *secret sauce*.
 
-kbd-synth
-=========
+Revathi Studio
+==============
 
-``kbd-synth`` Community edition. This is our first application, and we are working on it.
+Revathi Studio Community edition. This is our first application, and we are working on it.
 
-MacOS users will be able to use it soon. And it will be **free for everybody**!!
+MacOS users will be able to use it soon. And it will be **free for everybody**!! PC users, hang on, we will get you there!
 
-Watch this page for updates. Or send us an email to `contact` [at] `musiclabpro` [dot] `com`.
+I'm sure you're keen to get early previews or participate in testing. **Please register your email with us at the form below**.
+We would love to help you make music.
 
-If you are keen to get early previews or participate in testing, please email us at the address above.
+Watch this page for updates. Or send us an email at `contact` [at] `musiclabpro` [dot] `com`.
 
 Features
 ========
 
-- Audio synthesis, MIDI controller
+- Making music feels like playing a game, make you feel like a **Pro**.
 
-- Multi-timbral polyphonic musical instrument
+- Audio synthesis, MIDI controller.
 
-- Jam machine, musical accompaniment, live instrument, karaoke
-
-- Hundreds of high quality musical instruments
+- Hundreds of high quality musical instruments.
 
 - Realtime interaction, live performance and recording. Very low latency.
 
+- Jam machine, musical accompaniment, karaoke.
+
 - Simple elegant GUI.
+
+- DAW integration and remote control.
 
 - AI enabled, and more.
 
 Rationale
 =========
 
-- Becoming a professional musician/producer has a huge barrier to entry
+Becoming a professional musician/producer has a huge barrier to entry because
 
-  - You need approximately 10-20 years of singing/instrument practice
+  - You need approximately 10-20 years of singing/instrument practice,
 
-  - Good quality equipments are very expensive. We want robust but cheaper alternatives.
+  - Good quality equipments are very expensive. We want robust but cheaper alternatives,
 
-- Artists often get stuck in their own style and find it hard to break out of the rut.
+  - Making a living as a musician is hard. Only few make it big,
 
-- We travel a lot. It's hard to carry around equipment, but we often carry around a laptop. Inspiration can strike anytime.
+  - Using DAW software well has a steep learning curve along with knowledge of thousands of concepts.
 
-- We want to take a 10 minute break and play some musical tunes, learn about scales, develop ear for intervals.
+We all love music, we listen to it, we dance to it, we connect with people around music.
+
+We just don't know how to make music, that we could share with others, how to make our own songs.
+
+We always wanted to play an instrument but never got the chance, or could make the time.
+
+MusicLab Pro is here to make you a musician among the pros.
+
+Register now
+============
+
+Sign up for early access to MusicLab Pro, and let's make music together
+
+.. raw:: html
+
+    <iframe src="https://forms.gle/VBqtLbMgMrM9jd3KA" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
