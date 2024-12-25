@@ -23,3 +23,30 @@
       padding-bottom: 150%; /* Taller aspect ratio for mobile */
     }
   }
+  .wy-nav-content {
+    background-image: url('background.webp');
+    background-size: auto 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+
+/* This creates the semi-transparent overlay */
+.wy-nav-content::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    opacity: 0.7;  /* This makes the background 30% transparent */
+    z-index: 0;
+}
+
+/* This ensures your content remains visible above the overlay */
+.wy-nav-content > * {
+    position: relative;
+    z-index: 1;
+}
